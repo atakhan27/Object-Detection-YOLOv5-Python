@@ -1,7 +1,8 @@
 # Object-Detection-YOLOv5-Python
 
 ## Watch the Video
-(https://drive.google.com/file/d/1KdvGyUdGHZbxNSEMxa0HOcB7ZpZn6rjv/view?usp=share_link)
+![Alt text](https://github.com/atakhan27/Object-Detection-YOLOv5-Python/blob/main/yolov5-california.png)
+https://drive.google.com/file/d/1KdvGyUdGHZbxNSEMxa0HOcB7ZpZn6rjv/view?usp=share_link
 
 ## Installation
 
